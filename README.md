@@ -43,4 +43,4 @@ This project focuses on the identification of Ayurvedic medicinal plants using *
 ### Setup Instructions
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/ayurvedic-plant-identification.git
+   [git clone https://github.com/username/ayurvedic-plant-identification.git](https://github.com/harshadasawai/Medicinal_PLant_Detection_and_Classification.git)
