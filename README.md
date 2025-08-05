@@ -40,7 +40,17 @@ This project focuses on the identification of Ayurvedic medicinal plants using *
 - NumPy
 - Matplotlib
 
-### Setup Instructions
-1. Clone this repository:
-   ```bash
-   [git clone https://github.com/username/ayurvedic-plant-identification.git](https://github.com/harshadasawai/Medicinal_PLant_Detection_and_Classification.git)
+# Technologies Used :
+
+1. Flask (Web Application - Backend)
+2. Convolutional Neural Network (CNN)
+3. Bootstrap, HTML, CSS, JS (Web Application - Frontend)
+
+# To run the project preform the following steps:
+
+1. Crate a python virtual environment (env).
+2. Activate the environment (./env/Scripts/activate.ps1)
+3. install required python packages (tensorflow, pillow, sqlalchemy and flask)
+4. Run the project by using command (python ./app.py)
+5. ctrl+click on the ip address shown to display the project in the browser.
+
